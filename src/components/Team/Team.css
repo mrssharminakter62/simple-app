@@ -1,0 +1,21 @@
+.player_container{
+    display:flex;
+        
+  }
+  .player{
+      width: 60%;
+      border-right: 1px solid grey;
+      margin-left: 80px;
+      margin-right: 50px;
+    
+  }
+  .player_list{
+    width:600px;
+    text-align: center;
+    margin-left: 80px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    color: white;
+    background-color: blue;
+  }
+  

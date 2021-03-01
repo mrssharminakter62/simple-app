@@ -1,0 +1,80 @@
+[{
+    "id": 0,
+    "name": "Tamim Iqbal",
+    "salary": 24000,
+    "lan": "Catalan",
+    "gender": "Agender" ,
+    "img" : "https://i.ibb.co/Sd024gh/tamim.jpg" 
+  }, {
+    "id": 1,
+    "name": "Mashrafe bin Mortoja",
+    "salary": 25000,
+    "lan": "West Frisian",
+    "gender": "Female",
+    "img" : "https://i.ibb.co/QKxY6rN/mashrafe.jpg"
+  }, {
+    "id": 2,
+    "name": "Taskin Ahmed",
+    "salary": 20000,
+    "lan": "Tsonga",
+    "gender": "Female",
+    "img" : "https://i.ibb.co/pdf6nGB/taskn.jpg"
+  }, {
+    "id": 3,
+    "name": "Mehedy hasan Miraz",
+    "salary": 23000,
+    "lan": "Aymara",
+    "gender": "Male",
+    "img" : "https://i.ibb.co/WH6myTj/miraz.jpg"
+
+  },  {
+    "id": 4,
+    "name": "Imrul kayes",
+    "salary": 24000,
+    "lan": "Tsonga",
+    "gender": "Bigender",
+    "img" : "https://i.ibb.co/rQVL3Mr/Imrul-Kayes.jpg"
+
+  }, {
+    "id": 5,
+    "name": "Soumya Sarkar",
+    "salary": 22000,
+    "lan": "Kashmiri",
+    "gender": "Genderfluid",
+    "img" : "https://i.ibb.co/PM1Wh4Y/Soumya-Sarkar.jpg"
+
+  }, {
+    "id": 6,
+    "name": "Liton Das",
+    "salary": 21000,
+    "lan": "Italian",
+    "gender": "Polygender",
+    "img" : "https://i.ibb.co/16xXHwd/Liton.jpg"
+
+  }, {
+    "id": 7,
+    "name": "Sakib Al Hasan",
+    "salary": 24000,
+    "lan": "Maltese",
+    "gender": "Bigender",
+    "img" : "https://i.ibb.co/zQjdXnh/sakib.jpg"
+   
+  }, {
+    "id": 8,
+    "name": "Musfiqur Rahim",
+    "salary": 28000,
+    "lan": "Estonian",
+    "gender": "Genderfluid",
+    "img" : "https://i.ibb.co/RjkC93G/musfiq.jpg"
+  
+  }, {
+    "id": 9,
+    "name": "Sabbir Ahmed",
+    "salary": 28000,
+    "lan": "Mongolian",
+    "gender": "Genderfluid",
+    "img" : "https://i.ibb.co/YQ81kFC/sabbir.jpg"
+
+  }]
+ 
+ 
