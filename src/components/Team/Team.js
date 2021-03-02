@@ -6,14 +6,15 @@ import './Team.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const Team = (props) => {
-    const [players, setPlayers]=useState([]);
+
+    const [players, setPlayers] = useState([]);
     const [cart, setCart] = useState([]);
 
-    useEffect(() =>{setPlayers(playerData)}, []);
+    useEffect(() => {setPlayers(playerData)}, []);
 
-    const handleAddPlayer =  (player) => {
+    const handleAddPlayer = (player) => {
      
-        const newCart =[...cart, player];
+        const newCart = [...cart, player];
         setCart(newCart);
     }
 
@@ -28,9 +29,11 @@ const Team = (props) => {
                     }
                 </div>
             </div> 
-            <div>
-              <Cart cart={cart}></Cart>    
-          </div>
+            <div xs={2}>
+                <div>
+                    <Cart cart={cart}></Cart>    
+                </div>
+            </div>
         </div>
     );
 };

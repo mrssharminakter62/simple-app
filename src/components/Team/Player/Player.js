@@ -1,9 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {faHandSpock } from '@fortawesome/free-solid-svg-icons'
-
 import './Player.css';
-
 
 const Player = (props) => {
 
